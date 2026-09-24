@@ -1,0 +1,8 @@
+{
+  "name": "Remix D2D Workflow Management System",
+  "description": "Day 2 Day Workflow Management System for e-commerce cataloging, image collection, inventory tracking, and multi-team task delegation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
